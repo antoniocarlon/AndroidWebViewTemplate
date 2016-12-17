@@ -1,0 +1,9 @@
+<resources>
+    
+    <!-- Customize these strings -->
+    <string name="app_name">BaseWebView</string>
+    <string name="retry">Retry</string>
+    <string name="error_loading">Oops.. There was an error</string>
+    <string name="is_connection_present">Check your Internet connection</string>
+
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Customize these colors -->
+    <color name="colorPrimary">#00ccff</color>
+    <color name="colorPrimaryDark">#0090b0</color>
+    <color name="colorAccent">#f000ff</color>
+
+    <!-- Base colors -->
+    <color name="WHITE">#ffffff</color>
+</resources>
