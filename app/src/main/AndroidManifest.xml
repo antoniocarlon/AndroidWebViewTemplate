@@ -12,7 +12,8 @@
         android:theme="@style/AppTheme">
 
         <activity
-            android:name="com.antoniocarlon.basewebview.MainActivity">
+            android:name="com.antoniocarlon.basewebview.MainActivity"
+            android:windowSoftInputMode="adjustResize">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 
